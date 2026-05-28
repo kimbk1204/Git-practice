@@ -51,3 +51,5 @@ if __name__ == "__main__":
 
     average = calculate_average(scores)
     print(f"평균 점수: {average:.1f}점")
+# gradebook v1.0 — 1주차 실습 완료
+SUBJECTS = ["국어", "영어", "수학", "과학탐구"]
